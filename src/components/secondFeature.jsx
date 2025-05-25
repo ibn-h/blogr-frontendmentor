@@ -30,7 +30,7 @@ function SecondFeature() {
         </div>
 
         <img
-          src="/images/illustration-laptop-desktop.svg"
+          src="src/assets/illustration-laptop-desktop.svg"
           className="right-0 left-0 mt-10 w-full max-w-xs md:absolute md:left-[-40%] md:mt-0 md:w-[80%] md:max-w-none lg:w-auto xl:left-[-31%]"
           alt="Laptop Illustration"
         />

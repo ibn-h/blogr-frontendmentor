@@ -40,12 +40,12 @@ function About() {
 
             <img
               className="absolute top-[-50%] left-[152%] hidden w-[500px] max-w-none md:block"
-              src="/images/illustration-editor-desktop.svg"
+              src="src/assets/illustration-editor-desktop.svg"
               alt="Editor Illustration"
             />
             <img
               className="mt-10 block w-full md:hidden"
-              src="/images/illustration-editor-desktop.svg"
+              src="src/assets/illustration-editor-desktop.svg"
               alt="Editor Illustration"
             />
           </div>

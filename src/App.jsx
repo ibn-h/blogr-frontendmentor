@@ -8,7 +8,7 @@ import Footer from "./components/footer";
 function App() {
   return (
     <>
-      <div className="rounded-bl-[6rem] bg-red-500 bg-[url('./assets/bg-pattern-intro-desktop.svg')] bg-cover bg-[25%_50%] bg-no-repeat text-white">
+      <div className="rounded-bl-[6rem] bg-red-500 bg-[url('src/assets/bg-pattern-intro-desktop.svg')] bg-cover bg-[25%_50%] bg-no-repeat text-white">
         <Header />
         <Hero />
       </div>
